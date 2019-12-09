@@ -1,0 +1,97 @@
+
+/* COLORS
+38486f
+584f84
+876a96
+d7c1e0
+
+33313b
+3c4f65
+834c69
+e6f5ff
+ */
+
+
+/* TAG SELECTORS */
+body {
+  background-color: #33313b;
+}
+
+h1 {
+  color: #d7c1e0;
+  font-family: Montserrat;
+}
+
+h3 {
+  color: #876a96;
+  font-family: Montserrat;
+}
+
+h4 {
+  color: #876a96;
+  font-family: Montserrat;
+}
+
+a {
+  color: #e6f5ff;
+  font-size: ;
+}
+
+p {
+  color: #d7c1e0;
+}
+
+td {
+  color: #d7c1e0;
+}
+
+div {
+  margin-top: ;
+  margin-right: ;
+  margin-bottom: ;
+  margin-left: ;
+}
+
+/* CLASS SELECTORS */
+
+.navbar {
+ /* background-color: #584f84; */
+ background-color: black;
+ position: sticky;
+ top: 0;
+}
+
+.navbar-brand {
+  color: #e6f5ff;
+  font-size: 2rem;
+}
+
+.steven {
+  height: 300px;
+  width: 300px;
+  padding-top: ;
+  padding-right: ;
+  padding-bottom: ;
+  padding-left: ;
+  border-top: 3rem;
+  border-right: 3rem;
+  border-bottom: 3rem;
+  border-left: 3rem;
+  margin-top: 3rem;
+  margin-right: ;
+  margin-bottom: ;
+  margin-left: 3rem;
+}
+
+/* ID SELECTORS */
+
+
+#shade {
+  font-family: Couture;
+  letter-spacing: 5px;
+}
+
+#mist {
+  font-family: Couture;
+  letter-spacing: 5px;
+}
